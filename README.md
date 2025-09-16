@@ -13,7 +13,7 @@
 
 ## 🔗 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satya-prakash-singh-4b9565291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](spr494305@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spr494305@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/satya775)  
 
 ---
