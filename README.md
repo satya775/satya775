@@ -5,16 +5,16 @@
 ---
 
 ## 📘 What I'm Doing Now  
-- 🌱 Learning: DBMS, Microprocessors, Blockchain  
+- 🌱 Learning: DBMS, Oops, Blockchain , Data structure & Algoriths
 - 💻 Practicing coding with C, C++, Python & Java  
-- 🌍 Exploring AI, Web Development, and Cloud  
+- 🌍 Exploring AI, Web 3.0, and Cloud  
 
 ---
 
 ## 🔗 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR-LINKEDIN)  
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR-USERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/satya-prakash-singh-4b9565291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](spr494305@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/satya775)  
 
 ---
 
@@ -29,9 +29,7 @@
 
 ---
 
-## 📊 GitHub Overview  
-![](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&theme=radical&show_icons=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical)  
+
 
 ---
 
